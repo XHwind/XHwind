@@ -1,4 +1,6 @@
-### Hi there, I am Hao Xiang!👋 
+### Hi there!👋 
+
+### I am [Hao Xiang (项昊 in Chinese)](https://xhwind.github.io/)!
 
 
 [![Hao Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XHwind&theme=onedark&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)

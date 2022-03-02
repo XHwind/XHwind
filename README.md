@@ -2,7 +2,7 @@
 
 ### I am [Hao Xiang (项昊 in Chinese)](https://xhwind.github.io/)!
 
-I am a PhD student @ [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/). Before that, I spent wonderful two years at the beautiful San Diego area for my Master journey and got my Bachelor's degree from Fudan University.
+I am a PhD student @[UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/). Before that, I spent wonderful two years at the beautiful San Diego area for my Master journey and got my Bachelor's degree from Fudan University.
 
 [![Hao Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XHwind&theme=onedark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
